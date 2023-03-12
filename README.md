@@ -1,2 +1,3 @@
 # hammerplusplus-experience
-experience with Alexander Regush
+- 12 Марта 2023 
+Александр предложил создать совместный проект по созданию карты для Garry's Mod с помощью усовершественного редактора карт Hammer++
