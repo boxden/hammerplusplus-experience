@@ -1,0 +1,28 @@
+web.lobby.inside
+{
+	dsp	14 		//type room
+	dsp_volume	2
+	fadetime	1.5	// second
+	playlooping
+	{
+		volume	.08
+		pitch	100
+		soundlevel	SNDLVL_30dB
+	//	position	0
+		wave	maps/fakedmmlobby/ambient/lobby.wav
+	}
+}
+
+web.lobby.outside
+{
+	dsp	1
+	dsp_volume	1
+	fadetime	1.5
+	playlooping
+	{
+		volume	.05
+		pitch	100
+		soundlevel	SNDLVL_30dB
+		wave	maps/fakedmmlobby/ambient/street.wav
+	}
+}
