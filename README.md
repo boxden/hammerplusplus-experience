@@ -8,6 +8,5 @@
 Александр предложил создать совместный проект по созданию карты для Garry's Mod с помощью усовершественного редактора карт Hammer++ 
 ## Инструменты
 Список инструментов для удобства в картостроении. <br>
-<br>
-Для просмотра/создания текстур: <br>
-- [VMT Editor](https://github.com/Dima-369/VMT-Editor/releases/tag/v1.3.12)
+- [VMT Editor](github.com/Dima-369/VMT-Editor/releases/tag/v1.3.12) - создание своих текстур (.vmt .vtf)
+- [GCFScape](gamebanana.com/tools/26) - извлекание данных из Valve Pack (.vpk)
