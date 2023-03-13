@@ -1,11 +1,12 @@
 ## Подготовка 
 
-Для того чтобы начать, требуется установить: <br>
-<Garry's Mod (без аддоноа весит 2gb) <br>
-<Source SDK 2013 Multiplayer (3 gb)
+Для того чтобы начать, требуется установить:
+
+>Garry's Mod (4,09 ГБ) <br>
+Source SDK Base 2013 Multiplayer (3,07 ГБ)
 
 Путь установки может быть любым
 
+## Установка Hammer++
 
-
-
+Скачиваем [утилиту](/GarrysMod-HammerPlusPlus-Installer-v201.exe)
