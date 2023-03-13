@@ -27,7 +27,6 @@
 
 - [Поддерживаемые звуковые форматы][snd source]
 - [Поддерживаемые форматы для Garry's Mod][snd gmod]
-- [Amon Tobin - Easy Muffin (Remixed by Bonobo)][link amon]
 
 ## Хронология
 
@@ -43,7 +42,6 @@
 [tool valveresourceformat]: https://github.com/SteamDatabase/ValveResourceFormat/releases
 [tool gcfscape]: https://gamebanana.com/tools/26
 [tool crowbar]: https://github.com/ZeqMacaw/Crowbar/releases
-[link amon]: video/Amon%20Tobin%20-%20Easy%20Muffin%20(mixed%20by%20Bonobo).mp4
 [link hammer++]: https://github.com/ficool2/HammerPlusPlus-Website/releases
 
 <!-- Информация (Shields.io) -->
