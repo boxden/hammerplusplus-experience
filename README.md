@@ -17,11 +17,10 @@
 
 ## Инструменты
 
-Список инструментов для удобства в картостроении.
+Список инструментов мы используем
 
 - [Crowbar][tool crowbar] - мультиинструмент
-- [GCFScape][tool gcfscape] - извлекание данных из Valve Pack (.vpk)
-- [ValveResourceFormat][tool valveresourceformat] - лучшая альтернатива GCFScape (.vpk)
+- [ValveResourceFormat][tool valveresourceformat] - разархиватор данных из Valve Pack(.vpk)
 - [VMT Editor][tool vmt editor] - создание своих текстур (.vmt .vtf)
 
 ## Полезные ссылки
@@ -42,7 +41,6 @@ _Создано благодаря Армену Карапетяну и его �
 [snd gmod]: https://originahl-scripts.com/en/help/gmod-sounds-supported-formats
 [tool vmt editor]: https://github.com/Dima-369/VMT-Editor/releases
 [tool valveresourceformat]: https://github.com/SteamDatabase/ValveResourceFormat/releases
-[tool gcfscape]: https://gamebanana.com/tools/26
 [tool crowbar]: https://github.com/ZeqMacaw/Crowbar/releases
 [tool hammer++]: https://github.com/ficool2/HammerPlusPlus-Website/releases
 
