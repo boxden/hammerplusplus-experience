@@ -9,7 +9,7 @@
 
 ## Дорожная карта
 
-- [ ] Изучение [Hammer++][link hammer++]
+- [ ] Изучение [Hammer++][tool hammer++]
 - [ ] Практика
 - [ ] Начало работы :tada:
 
@@ -42,7 +42,7 @@ _Создано благодаря Армену Карапетяну и его �
 [tool valveresourceformat]: https://github.com/SteamDatabase/ValveResourceFormat/releases
 [tool gcfscape]: https://gamebanana.com/tools/26
 [tool crowbar]: https://github.com/ZeqMacaw/Crowbar/releases
-[link hammer++]: https://github.com/ficool2/HammerPlusPlus-Website/releases
+[tool hammer++]: https://github.com/ficool2/HammerPlusPlus-Website/releases
 
 <!-- Информация (Shields.io) -->
 [tool shields]: https://shields.io
