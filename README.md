@@ -3,8 +3,6 @@
 Создание карты с помощью усовершественного редактора [Hammer++][tool hammer++]
 
 ![GitHub repo size][info repo size]
-![GitHub repo file count][info repo file count]
-![Discord][info discord bot commit]
 ![GitHub last commit][info last commit]
 
 ## Дорожная карта
@@ -45,6 +43,4 @@ _Создано благодаря Армену Карапетяну и его �
 <!-- Информация (Shields.io) -->
 [tool shields]: https://shields.io
 [info repo size]: https://img.shields.io/github/repo-size/boxden/hammerplusplus-experience
-[info repo file count]: https://img.shields.io/github/directory-file-count/boxden/hammerplusplus-experience
-[info discord bot commit]: https://img.shields.io/discord/1044606164823969876
 [info last commit]: https://img.shields.io/github/last-commit/boxden/hammerplusplus-experience
