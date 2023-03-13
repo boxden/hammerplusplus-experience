@@ -21,12 +21,12 @@
 - [GCFScape][tool gcfscape] - извлекание данных из Valve Pack (.vpk)
 - [ValveResourceFormat][tool valveresourceformat] - лучшая альтернатива GCFScape (.vpk)
 - [VMT Editor][tool vmt editor] - создание своих текстур (.vmt .vtf)
-- [Shields][tool shields] - создание бэйджиков для красоты
 
 ## Полезные ссылки
 
 - [Поддерживаемые звуковые форматы][snd source]
 - [Поддерживаемые форматы для Garry's Mod][snd gmod]
+- [Shields][tool shields] - создание бэйджиков для красоты
 
 ## Хронология
 
@@ -37,7 +37,6 @@
 <!-- Основные ссылки -->
 [snd source]: https://gmod-games.thouvest.ovh/documents/sound_supported_formats.htm
 [snd gmod]: https://originahl-scripts.com/en/help/gmod-sounds-supported-formats
-[tool shields]: https://shields.io
 [tool vmt editor]: https://github.com/Dima-369/VMT-Editor/releases
 [tool valveresourceformat]: https://github.com/SteamDatabase/ValveResourceFormat/releases
 [tool gcfscape]: https://gamebanana.com/tools/26
@@ -45,6 +44,7 @@
 [link hammer++]: https://github.com/ficool2/HammerPlusPlus-Website/releases
 
 <!-- Информация (Shields.io) -->
+[tool shields]: https://shields.io
 [info repo size]: https://img.shields.io/github/repo-size/boxden/hammerplusplus-experience
 [info repo file count]: https://img.shields.io/github/directory-file-count/boxden/hammerplusplus-experience
 [info discord bot commit]: https://img.shields.io/discord/1044606164823969876
