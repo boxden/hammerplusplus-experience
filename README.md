@@ -1,6 +1,8 @@
 # Описание
 
-Репозиторий будущего совместного проекта
+Репозиторий будущего совместного проекта <br>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/boxden/hammerplusplus-experience)
 
 # Дорожная карта
 
