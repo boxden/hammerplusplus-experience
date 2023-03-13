@@ -9,17 +9,17 @@
 
 # Дорожная карта
 
-- [ ] Изучение [Hammer++](github.com/ficool2/HammerPlusPlus-Website/releases)
+- [ ] Изучение [Hammer++](https://github.com/ficool2/HammerPlusPlus-Website/releases)
 - [ ] Создание карты :tada:
 
 # Инструменты
 
 Список инструментов для удобства в картостроении. <br>
 
-- [Crowbar](github.com/ZeqMacaw/Crowbar/releases) - мультиинструмент
+- [Crowbar](https://github.com/ZeqMacaw/Crowbar/releases) - мультиинструмент
 - [GCFScape](gamebanana.com/tools/26) - извлекание данных из Valve Pack (.vpk)
-- [ValveResourceFormat](github.com/SteamDatabase/ValveResourceFormat/releases) - лучшая альтернатива GCFScape (.vpk)
-- [VMT Editor](github.com/Dima-369/VMT-Editor/releases) - создание своих текстур (.vmt .vtf)
+- [ValveResourceFormat](https://github.com/SteamDatabase/ValveResourceFormat/releases) - лучшая альтернатива GCFScape (.vpk)
+- [VMT Editor](https://github.com/Dima-369/VMT-Editor/releases) - создание своих текстур (.vmt .vtf)
 
 # Хронология
 
