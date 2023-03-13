@@ -11,4 +11,4 @@
 >5. Анализ размера дополнений
 
 ## Изображение
-![gmpublisher](https://user-images.githubusercontent.com/30258996/224716636-69bddc0c-f270-4437-86eb-f54b214235ec.png)
+![gmpublisher v2.9.2](https://user-images.githubusercontent.com/30258996/224716636-69bddc0c-f270-4437-86eb-f54b214235ec.png)
