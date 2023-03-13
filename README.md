@@ -9,7 +9,7 @@
 
 # Дорожная карта
 
-- [ ] Изучение Hammer++
+- [ ] Изучение [Hammer++](https://github.com/ficool2/HammerPlusPlus-Website/releases)
 - [ ] Создание карты
 
 # Инструменты
