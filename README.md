@@ -16,9 +16,10 @@
 
 Список инструментов для удобства в картостроении. <br>
 
-- [Crowbar](github.com/ZeqMacaw/Crowbar/releases/tag/v0.74) - мультиинструмент
+- [Crowbar](github.com/ZeqMacaw/Crowbar/releases) - мультиинструмент
 - [GCFScape](gamebanana.com/tools/26) - извлекание данных из Valve Pack (.vpk)
-- [VMT Editor](github.com/Dima-369/VMT-Editor/releases/tag/v1.3.12) - создание своих текстур (.vmt .vtf)
+- [ValveResourceFormat](https://github.com/SteamDatabase/ValveResourceFormat/releases) - лучшая альтернатива GCFScape (.vpk)
+- [VMT Editor](github.com/Dima-369/VMT-Editor/releases) - создание своих текстур (.vmt .vtf)
 
 # Хронология
 
