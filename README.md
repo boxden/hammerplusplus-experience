@@ -3,6 +3,7 @@
 Репозиторий будущего совместного проекта <br>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/boxden/hammerplusplus-experience)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/boxden/hammerplusplus-experience)
 
 # Дорожная карта
 
