@@ -12,3 +12,4 @@ Source SDK Base 2013 Multiplayer (3,07 ГБ)
 Скачиваем [утилиту][download hammer++]
 
 [download hammer++]: ../GarrysMod-HammerPlusPlus-Installer-v201.exe
+[link Toyota](../README.md)
