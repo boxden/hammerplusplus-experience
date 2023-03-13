@@ -15,7 +15,7 @@
 > - Расспаковка моделей и предпросмотр моделей (.mdl)
 
 ## Изображения
-![Crowbar_0 72][img crowbar]
+![Crowbar 0.72][img crowbar]
 
 <!-- Картинки -->
 [img crowbar]: https://user-images.githubusercontent.com/30258996/224700892-4b258333-444f-46e3-b0aa-f3390ccc4800.png
