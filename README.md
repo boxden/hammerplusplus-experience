@@ -1,8 +1,6 @@
 ## Описание
 
-Репозиторий будущего совместного проекта <br>
->Мы базируемся на движке Source 2013 Multiplayer <br>
-Создаем совместную карту с помощью усовершественного редактора [Hammer++][tool hammer++]
+Создание карты с помощью усовершественного редактора [Hammer++][tool hammer++]
 
 ![GitHub repo size][info repo size]
 ![GitHub repo file count][info repo file count]
