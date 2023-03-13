@@ -10,7 +10,7 @@
 # Дорожная карта
 
 - [ ] Изучение [Hammer++](https://github.com/ficool2/HammerPlusPlus-Website/releases)
-- [ ] Создание карты
+- [ ] Создание карты :tada:
 
 # Инструменты
 
