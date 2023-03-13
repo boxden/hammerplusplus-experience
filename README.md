@@ -4,6 +4,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/boxden/hammerplusplus-experience)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/boxden/hammerplusplus-experience)
+![Discord](https://img.shields.io/discord/1044606164823969876)
+![GitHub last commit](https://img.shields.io/github/last-commit/boxden/hammerplusplus-experience)
 
 # Дорожная карта
 
