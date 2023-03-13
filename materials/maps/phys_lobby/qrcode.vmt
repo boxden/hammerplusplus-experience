@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture "maps/phys_lobby/qrcode"
-	$decal	1
-	$translucent	1
-}

@@ -1,4 +1,0 @@
-﻿soundscapes_manifest
-{
-	file	"scripts/soundscapes/soundscapes_lobby.txt"
-}
