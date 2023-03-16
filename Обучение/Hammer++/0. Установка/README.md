@@ -13,6 +13,10 @@ Source SDK Base 2013 Multiplayer (3,07 ГБ)
 
 ![image](https://user-images.githubusercontent.com/30258996/225638243-956f72e7-51ae-4ef5-8e0b-8421c97ee03d.png)
 
+Нужно будет указать директории к игре и SDK
+
+(Фото)
+
 ## Настройка 
 
 Нужно выбрать директорию Source 
