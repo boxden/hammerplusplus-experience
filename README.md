@@ -16,7 +16,7 @@
 Список инструментов мы используем
 
 - [Crowbar][tool crowbar] - мультиинструмент
-- [ValveResourceFormat][tool valveresourceformat] - разархиватор данных из Valve Pack(.vpk)
+- [ValveResourceFormat][tool valveresourceformat] - разархиватор данных из Valve Pack (.vpk)
 - [VMT Editor][tool vmt editor] - создание своих текстур (.vmt .vtf)
 
 ## Полезные ссылки
