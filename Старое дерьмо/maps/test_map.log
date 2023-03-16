@@ -1,0 +1,180 @@
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\!negroshoara\part 03\maps\test_map.vmf
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (0.00 0.00 -56.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+material "skybox/sky_dm_gasworksrt" not found.
+Can't load skybox file skybox/sky_dm_gasworks to build the default cubemap!
+Can't load skybox file skybox/sky_dm_gasworks to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (578 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3 texinfos to 3
+Reduced 1 texdatas to 1 (26 bytes to 26)
+Writing D:\!negroshoara\part 03\maps\test_map.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\!negroshoara\part 03\maps\test_map.bsp
+reading d:\!negroshoara\part 03\maps\test_map.prt
+LoadPortals: couldn't read d:\!negroshoara\part 03\maps\test_map.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\part 03\maps\test_map.bsp
+No vis information, direct lighting only.
+448 faces
+373191 square feet [53739520.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0118 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  1/8192           12/98304    ( 0.0%) 
+brushsides               6/65536          48/524288   ( 0.0%) 
+planes                  44/65536         880/1310720  ( 0.1%) 
+vertexes               483/65536        5796/786432   ( 0.7%) 
+nodes                  159/65536        5088/2097152  ( 0.2%) 
+texinfos                 3/12288         216/884736   ( 0.0%) 
+texdata                  1/2048           32/65536    ( 0.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  448/65536       25088/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces                6/65536         336/3670016  ( 0.0%) 
+leaves                 161/65536        5152/2097152  ( 0.2%) 
+leaffaces              448/65536         896/131072   ( 0.7%) 
+leafbrushes             36/65536          72/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1880/512000       7520/2048000  ( 0.4%) 
+edges                  941/256000       3764/1024000  ( 0.4%) 
+LDR worldlights          1/8192           88/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             16/32768         160/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           192/65536         384/131072   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      942784/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]         668/393216   ( 0.2%) 
+LDR ambient table      161/65536         644/262144   ( 0.2%) 
+HDR ambient table      161/65536         644/262144   ( 0.2%) 
+LDR leaf ambient       139/65536        3892/1835008  ( 0.2%) 
+HDR leaf ambient       161/65536        4508/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]         578/4194304  ( 0.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 960
+Writing d:\!negroshoara\part 03\maps\test_map.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\part 03\maps\test_map.bsp
+No vis information, direct lighting only.
+448 faces
+373191 square feet [53739520.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0101 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  1/8192           12/98304    ( 0.0%) 
+brushsides               6/65536          48/524288   ( 0.0%) 
+planes                  44/65536         880/1310720  ( 0.1%) 
+vertexes               483/65536        5796/786432   ( 0.7%) 
+nodes                  159/65536        5088/2097152  ( 0.2%) 
+texinfos                 3/12288         216/884736   ( 0.0%) 
+texdata                  1/2048           32/65536    ( 0.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  448/65536       25088/3670016  ( 0.7%) 
+hdr faces              448/65536       25088/3670016  ( 0.7%) 
+origfaces                6/65536         336/3670016  ( 0.0%) 
+leaves                 161/65536        5152/2097152  ( 0.2%) 
+leaffaces              448/65536         896/131072   ( 0.7%) 
+leafbrushes             36/65536          72/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1880/512000       7520/2048000  ( 0.4%) 
+edges                  941/256000       3764/1024000  ( 0.4%) 
+LDR worldlights          1/8192           88/720896   ( 0.0%) 
+HDR worldlights          1/8192           88/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             16/32768         160/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           192/65536         384/131072   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      942784/0        ( 0.0%) 
+HDR lightdata         [variable]      942784/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]         668/393216   ( 0.2%) 
+LDR ambient table      161/65536         644/262144   ( 0.2%) 
+HDR ambient table      161/65536         644/262144   ( 0.2%) 
+LDR leaf ambient       139/65536        3892/1835008  ( 0.2%) 
+HDR leaf ambient       139/65536        3892/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]         578/4194304  ( 0.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 960
+Writing d:\!negroshoara\part 03\maps\test_map.bsp
+0 seconds elapsed

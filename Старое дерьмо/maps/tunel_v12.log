@@ -1,0 +1,2685 @@
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\!negroshoara\old stuff\maps\tunel_v12.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CONCRETEFLOOR038C, using default
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\!negroshoara\old stuff\maps\tunel_v12.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 131 texinfos to 72
+Reduced 20 texdatas to 17 (580 bytes to 464)
+Writing D:\!negroshoara\old stuff\maps\tunel_v12.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+reading d:\!negroshoara\old stuff\maps\tunel_v12.prt
+ 301 portalclusters
+ 861 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 38941
+Average clusters visible: 129
+Building PAS...
+Average clusters audible: 152
+visdatasize:25994  compressed from 24080
+writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+708 faces
+913263 square feet [131509952.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+708 patches before subdivision
+10668 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1791599, max 524
+transfer lists:  13.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1377, 1159, 962)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(156, 112, 81)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15, 9, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0032 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 432/65536        8640/1310720  ( 0.7%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  614/65536       19648/2097152  ( 0.9%) 
+texinfos                72/12288        5184/884736   ( 0.6%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  708/65536       39648/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              166/65536        9296/3670016  ( 0.3%) 
+leaves                 622/65536       19904/2097152  ( 0.9%) 
+leaffaces              912/65536        1824/131072   ( 1.4%) 
+leafbrushes            438/65536         876/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3802/512000      15208/2048000  ( 0.7%) 
+edges                 2177/256000       8708/1024000  ( 0.9%) 
+LDR worldlights         11/8192          968/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             44/32768         440/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           639/65536        1278/131072   ( 1.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]     1043484/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       25994/16777216 ( 0.2%) 
+entdata               [variable]       11068/393216   ( 2.8%) 
+LDR ambient table      622/65536        2488/262144   ( 0.9%) 
+HDR ambient table      622/65536        2488/262144   ( 0.9%) 
+LDR leaf ambient      2990/65536       83720/1835008  ( 4.6%) 
+HDR leaf ambient       622/65536       17416/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6238     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1726
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+708 faces
+913263 square feet [131509952.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+708 patches before subdivision
+10668 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1791599, max 524
+transfer lists:  13.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1377, 1159, 962)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(156, 112, 81)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15, 9, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 432/65536        8640/1310720  ( 0.7%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  614/65536       19648/2097152  ( 0.9%) 
+texinfos                72/12288        5184/884736   ( 0.6%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  708/65536       39648/3670016  ( 1.1%) 
+hdr faces              708/65536       39648/3670016  ( 1.1%) 
+origfaces              166/65536        9296/3670016  ( 0.3%) 
+leaves                 622/65536       19904/2097152  ( 0.9%) 
+leaffaces              912/65536        1824/131072   ( 1.4%) 
+leafbrushes            438/65536         876/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3802/512000      15208/2048000  ( 0.7%) 
+edges                 2177/256000       8708/1024000  ( 0.9%) 
+LDR worldlights         11/8192          968/720896   ( 0.1%) 
+HDR worldlights         11/8192          968/720896   ( 0.1%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             44/32768         440/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           639/65536        1278/131072   ( 1.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]     1043484/0        ( 0.0%) 
+HDR lightdata         [variable]     1043484/0        ( 0.0%) 
+visdata               [variable]       25994/16777216 ( 0.2%) 
+entdata               [variable]       11068/393216   ( 2.8%) 
+LDR ambient table      622/65536        2488/262144   ( 0.9%) 
+HDR ambient table      622/65536        2488/262144   ( 0.9%) 
+LDR leaf ambient      2990/65536       83720/1835008  ( 4.6%) 
+HDR leaf ambient      2990/65536       83720/1835008  ( 4.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6238     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1726
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+3 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\!negroshoara\old stuff\maps\tunel_v12.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CONCRETEFLOOR038C, using default
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\!negroshoara\old stuff\maps\tunel_v12.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 131 texinfos to 72
+Reduced 20 texdatas to 17 (580 bytes to 464)
+Writing D:\!negroshoara\old stuff\maps\tunel_v12.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+reading d:\!negroshoara\old stuff\maps\tunel_v12.prt
+ 301 portalclusters
+ 861 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 38941
+Average clusters visible: 129
+Building PAS...
+Average clusters audible: 152
+visdatasize:25994  compressed from 24080
+writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+708 faces
+913263 square feet [131509952.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+708 patches before subdivision
+10668 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1786331, max 524
+transfer lists:  13.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1363, 1147, 835)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(155, 111, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15, 9, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0027 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 432/65536        8640/1310720  ( 0.7%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  614/65536       19648/2097152  ( 0.9%) 
+texinfos                72/12288        5184/884736   ( 0.6%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  708/65536       39648/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              166/65536        9296/3670016  ( 0.3%) 
+leaves                 622/65536       19904/2097152  ( 0.9%) 
+leaffaces              912/65536        1824/131072   ( 1.4%) 
+leafbrushes            438/65536         876/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3802/512000      15208/2048000  ( 0.7%) 
+edges                 2177/256000       8708/1024000  ( 0.9%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             44/32768         440/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           639/65536        1278/131072   ( 1.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]     1041648/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       25994/16777216 ( 0.2%) 
+entdata               [variable]       10654/393216   ( 2.7%) 
+LDR ambient table      622/65536        2488/262144   ( 0.9%) 
+HDR ambient table      622/65536        2488/262144   ( 0.9%) 
+LDR leaf ambient      2980/65536       83440/1835008  ( 4.5%) 
+HDR leaf ambient       622/65536       17416/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6398     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1726
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+708 faces
+913263 square feet [131509952.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+708 patches before subdivision
+10668 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1786331, max 524
+transfer lists:  13.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1363, 1147, 835)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(155, 111, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15, 9, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0022 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 432/65536        8640/1310720  ( 0.7%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  614/65536       19648/2097152  ( 0.9%) 
+texinfos                72/12288        5184/884736   ( 0.6%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  708/65536       39648/3670016  ( 1.1%) 
+hdr faces              708/65536       39648/3670016  ( 1.1%) 
+origfaces              166/65536        9296/3670016  ( 0.3%) 
+leaves                 622/65536       19904/2097152  ( 0.9%) 
+leaffaces              912/65536        1824/131072   ( 1.4%) 
+leafbrushes            438/65536         876/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3802/512000      15208/2048000  ( 0.7%) 
+edges                 2177/256000       8708/1024000  ( 0.9%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights         10/8192          880/720896   ( 0.1%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             44/32768         440/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           639/65536        1278/131072   ( 1.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]     1041648/0        ( 0.0%) 
+HDR lightdata         [variable]     1041648/0        ( 0.0%) 
+visdata               [variable]       25994/16777216 ( 0.2%) 
+entdata               [variable]       10654/393216   ( 2.7%) 
+LDR ambient table      622/65536        2488/262144   ( 0.9%) 
+HDR ambient table      622/65536        2488/262144   ( 0.9%) 
+LDR leaf ambient      2980/65536       83440/1835008  ( 4.5%) 
+HDR leaf ambient      2980/65536       83440/1835008  ( 4.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6398     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1726
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+4 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\!negroshoara\old stuff\maps\tunel_v12.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CONCRETEFLOOR038C, using default
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\!negroshoara\old stuff\maps\tunel_v12.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 131 texinfos to 72
+Reduced 20 texdatas to 17 (580 bytes to 464)
+Writing D:\!negroshoara\old stuff\maps\tunel_v12.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+reading d:\!negroshoara\old stuff\maps\tunel_v12.prt
+ 301 portalclusters
+ 861 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 38941
+Average clusters visible: 129
+Building PAS...
+Average clusters audible: 152
+visdatasize:25994  compressed from 24080
+writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+708 faces
+913263 square feet [131509952.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+708 patches before subdivision
+10668 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1812200, max 524
+transfer lists:  13.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1325, 1114, 830)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(148, 104, 69)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 9, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0020 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 432/65536        8640/1310720  ( 0.7%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  614/65536       19648/2097152  ( 0.9%) 
+texinfos                72/12288        5184/884736   ( 0.6%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  708/65536       39648/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              166/65536        9296/3670016  ( 0.3%) 
+leaves                 622/65536       19904/2097152  ( 0.9%) 
+leaffaces              912/65536        1824/131072   ( 1.4%) 
+leafbrushes            438/65536         876/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3802/512000      15208/2048000  ( 0.7%) 
+edges                 2177/256000       8708/1024000  ( 0.9%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             44/32768         440/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           639/65536        1278/131072   ( 1.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]     1041648/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       25994/16777216 ( 0.2%) 
+entdata               [variable]       10654/393216   ( 2.7%) 
+LDR ambient table      622/65536        2488/262144   ( 0.9%) 
+HDR ambient table      622/65536        2488/262144   ( 0.9%) 
+LDR leaf ambient      2978/65536       83384/1835008  ( 4.5%) 
+HDR leaf ambient       622/65536       17416/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6760     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1726
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+708 faces
+913263 square feet [131509952.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+708 patches before subdivision
+10668 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1812200, max 524
+transfer lists:  13.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1325, 1114, 830)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(148, 104, 69)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 9, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 432/65536        8640/1310720  ( 0.7%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  614/65536       19648/2097152  ( 0.9%) 
+texinfos                72/12288        5184/884736   ( 0.6%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  708/65536       39648/3670016  ( 1.1%) 
+hdr faces              708/65536       39648/3670016  ( 1.1%) 
+origfaces              166/65536        9296/3670016  ( 0.3%) 
+leaves                 622/65536       19904/2097152  ( 0.9%) 
+leaffaces              912/65536        1824/131072   ( 1.4%) 
+leafbrushes            438/65536         876/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3802/512000      15208/2048000  ( 0.7%) 
+edges                 2177/256000       8708/1024000  ( 0.9%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights         10/8192          880/720896   ( 0.1%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             44/32768         440/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           639/65536        1278/131072   ( 1.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]     1041648/0        ( 0.0%) 
+HDR lightdata         [variable]     1041648/0        ( 0.0%) 
+visdata               [variable]       25994/16777216 ( 0.2%) 
+entdata               [variable]       10654/393216   ( 2.7%) 
+LDR ambient table      622/65536        2488/262144   ( 0.9%) 
+HDR ambient table      622/65536        2488/262144   ( 0.9%) 
+LDR leaf ambient      2978/65536       83384/1835008  ( 4.5%) 
+HDR leaf ambient      2978/65536       83384/1835008  ( 4.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6760     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1726
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+3 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\!negroshoara\old stuff\maps\tunel_v12.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CONCRETEFLOOR038C, using default
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\!negroshoara\old stuff\maps\tunel_v12.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 131 texinfos to 72
+Reduced 20 texdatas to 17 (580 bytes to 464)
+Writing D:\!negroshoara\old stuff\maps\tunel_v12.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+reading d:\!negroshoara\old stuff\maps\tunel_v12.prt
+ 301 portalclusters
+ 861 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 38941
+Average clusters visible: 129
+Building PAS...
+Average clusters audible: 152
+visdatasize:25994  compressed from 24080
+writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+708 faces
+913263 square feet [131509952.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+708 patches before subdivision
+10668 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1792155, max 519
+transfer lists:  13.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1245, 1044, 815)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(141, 99, 68)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 8, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 432/65536        8640/1310720  ( 0.7%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  614/65536       19648/2097152  ( 0.9%) 
+texinfos                72/12288        5184/884736   ( 0.6%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  708/65536       39648/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              166/65536        9296/3670016  ( 0.3%) 
+leaves                 622/65536       19904/2097152  ( 0.9%) 
+leaffaces              912/65536        1824/131072   ( 1.4%) 
+leafbrushes            438/65536         876/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3802/512000      15208/2048000  ( 0.7%) 
+edges                 2177/256000       8708/1024000  ( 0.9%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             44/32768         440/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           639/65536        1278/131072   ( 1.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]     1040596/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       25994/16777216 ( 0.2%) 
+entdata               [variable]       10654/393216   ( 2.7%) 
+LDR ambient table      622/65536        2488/262144   ( 0.9%) 
+HDR ambient table      622/65536        2488/262144   ( 0.9%) 
+LDR leaf ambient      2957/65536       82796/1835008  ( 4.5%) 
+HDR leaf ambient       622/65536       17416/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6976     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1726
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+708 faces
+913263 square feet [131509952.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+708 patches before subdivision
+10668 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1792155, max 519
+transfer lists:  13.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1245, 1044, 815)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(141, 99, 68)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 8, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 432/65536        8640/1310720  ( 0.7%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  614/65536       19648/2097152  ( 0.9%) 
+texinfos                72/12288        5184/884736   ( 0.6%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  708/65536       39648/3670016  ( 1.1%) 
+hdr faces              708/65536       39648/3670016  ( 1.1%) 
+origfaces              166/65536        9296/3670016  ( 0.3%) 
+leaves                 622/65536       19904/2097152  ( 0.9%) 
+leaffaces              912/65536        1824/131072   ( 1.4%) 
+leafbrushes            438/65536         876/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3802/512000      15208/2048000  ( 0.7%) 
+edges                 2177/256000       8708/1024000  ( 0.9%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights         10/8192          880/720896   ( 0.1%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             44/32768         440/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           639/65536        1278/131072   ( 1.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]     1040596/0        ( 0.0%) 
+HDR lightdata         [variable]     1040596/0        ( 0.0%) 
+visdata               [variable]       25994/16777216 ( 0.2%) 
+entdata               [variable]       10654/393216   ( 2.7%) 
+LDR ambient table      622/65536        2488/262144   ( 0.9%) 
+HDR ambient table      622/65536        2488/262144   ( 0.9%) 
+LDR leaf ambient      2957/65536       82796/1835008  ( 4.5%) 
+HDR leaf ambient      2957/65536       82796/1835008  ( 4.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6976     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1726
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+3 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\!negroshoara\old stuff\maps\tunel_v12.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CONCRETEFLOOR038C, using default
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\!negroshoara\old stuff\maps\tunel_v12.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 131 texinfos to 72
+Reduced 20 texdatas to 17 (580 bytes to 464)
+Writing D:\!negroshoara\old stuff\maps\tunel_v12.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+reading d:\!negroshoara\old stuff\maps\tunel_v12.prt
+ 301 portalclusters
+ 861 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 38941
+Average clusters visible: 129
+Building PAS...
+Average clusters audible: 152
+visdatasize:25994  compressed from 24080
+writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+708 faces
+913263 square feet [131509952.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+708 patches before subdivision
+10668 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1814841, max 524
+transfer lists:  13.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1242, 1039, 815)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(143, 101, 68)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 8, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 432/65536        8640/1310720  ( 0.7%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  614/65536       19648/2097152  ( 0.9%) 
+texinfos                72/12288        5184/884736   ( 0.6%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  708/65536       39648/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              166/65536        9296/3670016  ( 0.3%) 
+leaves                 622/65536       19904/2097152  ( 0.9%) 
+leaffaces              912/65536        1824/131072   ( 1.4%) 
+leafbrushes            438/65536         876/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3802/512000      15208/2048000  ( 0.7%) 
+edges                 2177/256000       8708/1024000  ( 0.9%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             44/32768         440/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           639/65536        1278/131072   ( 1.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]     1041648/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       25994/16777216 ( 0.2%) 
+entdata               [variable]       10654/393216   ( 2.7%) 
+LDR ambient table      622/65536        2488/262144   ( 0.9%) 
+HDR ambient table      622/65536        2488/262144   ( 0.9%) 
+LDR leaf ambient      2915/65536       81620/1835008  ( 4.4%) 
+HDR leaf ambient       622/65536       17416/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6960     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1726
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+708 faces
+913263 square feet [131509952.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+708 patches before subdivision
+10668 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1814841, max 524
+transfer lists:  13.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1242, 1039, 815)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(143, 101, 68)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 8, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 432/65536        8640/1310720  ( 0.7%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  614/65536       19648/2097152  ( 0.9%) 
+texinfos                72/12288        5184/884736   ( 0.6%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  708/65536       39648/3670016  ( 1.1%) 
+hdr faces              708/65536       39648/3670016  ( 1.1%) 
+origfaces              166/65536        9296/3670016  ( 0.3%) 
+leaves                 622/65536       19904/2097152  ( 0.9%) 
+leaffaces              912/65536        1824/131072   ( 1.4%) 
+leafbrushes            438/65536         876/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3802/512000      15208/2048000  ( 0.7%) 
+edges                 2177/256000       8708/1024000  ( 0.9%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights         10/8192          880/720896   ( 0.1%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             44/32768         440/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           639/65536        1278/131072   ( 1.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]     1041648/0        ( 0.0%) 
+HDR lightdata         [variable]     1041648/0        ( 0.0%) 
+visdata               [variable]       25994/16777216 ( 0.2%) 
+entdata               [variable]       10654/393216   ( 2.7%) 
+LDR ambient table      622/65536        2488/262144   ( 0.9%) 
+HDR ambient table      622/65536        2488/262144   ( 0.9%) 
+LDR leaf ambient      2915/65536       81620/1835008  ( 4.4%) 
+HDR leaf ambient      2915/65536       81620/1835008  ( 4.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6960     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1726
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+4 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\!negroshoara\old stuff\maps\tunel_v12.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CONCRETEFLOOR038C, using default
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\!negroshoara\old stuff\maps\tunel_v12.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 131 texinfos to 72
+Reduced 20 texdatas to 17 (580 bytes to 464)
+Writing D:\!negroshoara\old stuff\maps\tunel_v12.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+reading d:\!negroshoara\old stuff\maps\tunel_v12.prt
+ 301 portalclusters
+ 861 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 38941
+Average clusters visible: 129
+Building PAS...
+Average clusters audible: 152
+visdatasize:25994  compressed from 24080
+writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+708 faces
+913263 square feet [131509952.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+708 patches before subdivision
+10668 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1815163, max 524
+transfer lists:  13.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1287, 1080, 839)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(148, 105, 71)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 8, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 432/65536        8640/1310720  ( 0.7%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  614/65536       19648/2097152  ( 0.9%) 
+texinfos                72/12288        5184/884736   ( 0.6%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  708/65536       39648/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              166/65536        9296/3670016  ( 0.3%) 
+leaves                 622/65536       19904/2097152  ( 0.9%) 
+leaffaces              912/65536        1824/131072   ( 1.4%) 
+leafbrushes            438/65536         876/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3802/512000      15208/2048000  ( 0.7%) 
+edges                 2177/256000       8708/1024000  ( 0.9%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             44/32768         440/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           639/65536        1278/131072   ( 1.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]     1041648/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       25994/16777216 ( 0.2%) 
+entdata               [variable]       10654/393216   ( 2.7%) 
+LDR ambient table      622/65536        2488/262144   ( 0.9%) 
+HDR ambient table      622/65536        2488/262144   ( 0.9%) 
+LDR leaf ambient      2959/65536       82852/1835008  ( 4.5%) 
+HDR leaf ambient       622/65536       17416/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6754     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1726
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+708 faces
+913263 square feet [131509952.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+708 patches before subdivision
+10668 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1815163, max 524
+transfer lists:  13.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1287, 1080, 839)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(148, 105, 71)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 8, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 432/65536        8640/1310720  ( 0.7%) 
+vertexes              1189/65536       14268/786432   ( 1.8%) 
+nodes                  614/65536       19648/2097152  ( 0.9%) 
+texinfos                72/12288        5184/884736   ( 0.6%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  708/65536       39648/3670016  ( 1.1%) 
+hdr faces              708/65536       39648/3670016  ( 1.1%) 
+origfaces              166/65536        9296/3670016  ( 0.3%) 
+leaves                 622/65536       19904/2097152  ( 0.9%) 
+leaffaces              912/65536        1824/131072   ( 1.4%) 
+leafbrushes            438/65536         876/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3802/512000      15208/2048000  ( 0.7%) 
+edges                 2177/256000       8708/1024000  ( 0.9%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights         10/8192          880/720896   ( 0.1%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             44/32768         440/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           639/65536        1278/131072   ( 1.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]     1041648/0        ( 0.0%) 
+HDR lightdata         [variable]     1041648/0        ( 0.0%) 
+visdata               [variable]       25994/16777216 ( 0.2%) 
+entdata               [variable]       10654/393216   ( 2.7%) 
+LDR ambient table      622/65536        2488/262144   ( 0.9%) 
+HDR ambient table      622/65536        2488/262144   ( 0.9%) 
+LDR leaf ambient      2959/65536       82852/1835008  ( 4.5%) 
+HDR leaf ambient      2959/65536       82852/1835008  ( 4.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6754     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1726
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+4 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\!negroshoara\old stuff\maps\tunel_v12.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CONCRETEFLOOR038C, using default
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\!negroshoara\old stuff\maps\tunel_v12.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 131 texinfos to 72
+Reduced 20 texdatas to 17 (580 bytes to 464)
+Writing D:\!negroshoara\old stuff\maps\tunel_v12.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+reading d:\!negroshoara\old stuff\maps\tunel_v12.prt
+ 295 portalclusters
+ 844 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 37269
+Average clusters visible: 126
+Building PAS...
+Average clusters audible: 148
+visdatasize:24621  compressed from 23600
+writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+705 faces
+913263 square feet [131509968.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+705 patches before subdivision
+10657 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1793717, max 519
+transfer lists:  13.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1289, 1082, 842)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(141, 100, 67)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 8, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0041 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 434/65536        8680/1310720  ( 0.7%) 
+vertexes              1182/65536       14184/786432   ( 1.8%) 
+nodes                  608/65536       19456/2097152  ( 0.9%) 
+texinfos                72/12288        5184/884736   ( 0.6%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  705/65536       39480/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              168/65536        9408/3670016  ( 0.3%) 
+leaves                 616/65536       19712/2097152  ( 0.9%) 
+leaffaces              902/65536        1804/131072   ( 1.4%) 
+leafbrushes            433/65536         866/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3794/512000      15176/2048000  ( 0.7%) 
+edges                 2174/256000       8696/1024000  ( 0.8%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             43/32768         430/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           621/65536        1242/131072   ( 0.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]     1044460/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       24621/16777216 ( 0.1%) 
+entdata               [variable]       10655/393216   ( 2.7%) 
+LDR ambient table      616/65536        2464/262144   ( 0.9%) 
+HDR ambient table      616/65536        2464/262144   ( 0.9%) 
+LDR leaf ambient      2909/65536       81452/1835008  ( 4.4%) 
+HDR leaf ambient       616/65536       17248/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6752     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1716
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+705 faces
+913263 square feet [131509968.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+705 patches before subdivision
+10657 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1793717, max 519
+transfer lists:  13.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1289, 1082, 842)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(141, 100, 67)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14, 8, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 434/65536        8680/1310720  ( 0.7%) 
+vertexes              1182/65536       14184/786432   ( 1.8%) 
+nodes                  608/65536       19456/2097152  ( 0.9%) 
+texinfos                72/12288        5184/884736   ( 0.6%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  705/65536       39480/3670016  ( 1.1%) 
+hdr faces              705/65536       39480/3670016  ( 1.1%) 
+origfaces              168/65536        9408/3670016  ( 0.3%) 
+leaves                 616/65536       19712/2097152  ( 0.9%) 
+leaffaces              902/65536        1804/131072   ( 1.4%) 
+leafbrushes            433/65536         866/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3794/512000      15176/2048000  ( 0.7%) 
+edges                 2174/256000       8696/1024000  ( 0.8%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights         10/8192          880/720896   ( 0.1%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             43/32768         430/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           621/65536        1242/131072   ( 0.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]     1044460/0        ( 0.0%) 
+HDR lightdata         [variable]     1044460/0        ( 0.0%) 
+visdata               [variable]       24621/16777216 ( 0.1%) 
+entdata               [variable]       10655/393216   ( 2.7%) 
+LDR ambient table      616/65536        2464/262144   ( 0.9%) 
+HDR ambient table      616/65536        2464/262144   ( 0.9%) 
+LDR leaf ambient      2909/65536       81452/1835008  ( 4.4%) 
+HDR leaf ambient      2909/65536       81452/1835008  ( 4.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6752     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1716
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+4 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\!negroshoara\old stuff\maps\tunel_v12.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CONCRETEFLOOR038C, using default
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\!negroshoara\old stuff\maps\tunel_v12.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 132 texinfos to 73
+Reduced 21 texdatas to 18 (616 bytes to 500)
+Writing D:\!negroshoara\old stuff\maps\tunel_v12.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+reading d:\!negroshoara\old stuff\maps\tunel_v12.prt
+ 295 portalclusters
+ 844 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 37269
+Average clusters visible: 126
+Building PAS...
+Average clusters audible: 148
+visdatasize:24621  compressed from 23600
+writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+706 faces
+913263 square feet [131509968.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+706 patches before subdivision
+10664 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1735319, max 500
+transfer lists:  13.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1232, 1032, 814)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(134, 95, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(13, 8, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0020 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 434/65536        8680/1310720  ( 0.7%) 
+vertexes              1182/65536       14184/786432   ( 1.8%) 
+nodes                  608/65536       19456/2097152  ( 0.9%) 
+texinfos                73/12288        5256/884736   ( 0.6%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  706/65536       39536/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              168/65536        9408/3670016  ( 0.3%) 
+leaves                 616/65536       19712/2097152  ( 0.9%) 
+leaffaces              903/65536        1806/131072   ( 1.4%) 
+leafbrushes            433/65536         866/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3800/512000      15200/2048000  ( 0.7%) 
+edges                 2177/256000       8708/1024000  ( 0.9%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             45/32768         450/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           648/65536        1296/131072   ( 1.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 3/512          1056/180224   ( 0.6%) 
+LDR lightdata         [variable]     1040188/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       24621/16777216 ( 0.1%) 
+entdata               [variable]       10901/393216   ( 2.8%) 
+LDR ambient table      616/65536        2464/262144   ( 0.9%) 
+HDR ambient table      616/65536        2464/262144   ( 0.9%) 
+LDR leaf ambient      2871/65536       80388/1835008  ( 4.4%) 
+HDR leaf ambient       616/65536       17248/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/7704     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1720
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+706 faces
+913263 square feet [131509968.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+706 patches before subdivision
+10664 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1735319, max 500
+transfer lists:  13.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1232, 1032, 814)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(134, 95, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(13, 8, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0022 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 434/65536        8680/1310720  ( 0.7%) 
+vertexes              1182/65536       14184/786432   ( 1.8%) 
+nodes                  608/65536       19456/2097152  ( 0.9%) 
+texinfos                73/12288        5256/884736   ( 0.6%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  706/65536       39536/3670016  ( 1.1%) 
+hdr faces              706/65536       39536/3670016  ( 1.1%) 
+origfaces              168/65536        9408/3670016  ( 0.3%) 
+leaves                 616/65536       19712/2097152  ( 0.9%) 
+leaffaces              903/65536        1806/131072   ( 1.4%) 
+leafbrushes            433/65536         866/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3800/512000      15200/2048000  ( 0.7%) 
+edges                 2177/256000       8708/1024000  ( 0.9%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights         10/8192          880/720896   ( 0.1%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             45/32768         450/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           648/65536        1296/131072   ( 1.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 3/512          1056/180224   ( 0.6%) 
+LDR lightdata         [variable]     1040188/0        ( 0.0%) 
+HDR lightdata         [variable]     1040188/0        ( 0.0%) 
+visdata               [variable]       24621/16777216 ( 0.1%) 
+entdata               [variable]       10901/393216   ( 2.8%) 
+LDR ambient table      616/65536        2464/262144   ( 0.9%) 
+HDR ambient table      616/65536        2464/262144   ( 0.9%) 
+LDR leaf ambient      2871/65536       80388/1835008  ( 4.4%) 
+HDR leaf ambient      2871/65536       80388/1835008  ( 4.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/7704     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1720
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+4 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\!negroshoara\old stuff\maps\tunel_v12.vmf
+Can't find surfaceprop concretegrit for material CONCRETE/CONCRETEFLOOR038C, using default
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+error: material NATURE/WATER_FAF_BENEATH doesn't have a $bottommaterial
+done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\!negroshoara\old stuff\maps\tunel_v12.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dm_bounce_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 132 texinfos to 73
+Reduced 21 texdatas to 18 (616 bytes to 500)
+Writing D:\!negroshoara\old stuff\maps\tunel_v12.bsp
+1 second elapsed
+
+
+
+4 threads
+reading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+reading d:\!negroshoara\old stuff\maps\tunel_v12.prt
+ 295 portalclusters
+ 844 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 37269
+Average clusters visible: 126
+Building PAS...
+Average clusters audible: 148
+visdatasize:24621  compressed from 23600
+writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+706 faces
+913263 square feet [131509968.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+706 patches before subdivision
+10664 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1735319, max 500
+transfer lists:  13.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1232, 1032, 814)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(134, 95, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(13, 8, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 434/65536        8680/1310720  ( 0.7%) 
+vertexes              1182/65536       14184/786432   ( 1.8%) 
+nodes                  608/65536       19456/2097152  ( 0.9%) 
+texinfos                73/12288        5256/884736   ( 0.6%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  706/65536       39536/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              168/65536        9408/3670016  ( 0.3%) 
+leaves                 616/65536       19712/2097152  ( 0.9%) 
+leaffaces              903/65536        1806/131072   ( 1.4%) 
+leafbrushes            433/65536         866/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3800/512000      15200/2048000  ( 0.7%) 
+edges                 2177/256000       8708/1024000  ( 0.9%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             45/32768         450/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           648/65536        1296/131072   ( 1.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 3/512          1056/180224   ( 0.6%) 
+LDR lightdata         [variable]     1040188/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       24621/16777216 ( 0.1%) 
+entdata               [variable]       10346/393216   ( 2.6%) 
+LDR ambient table      616/65536        2464/262144   ( 0.9%) 
+HDR ambient table      616/65536        2464/262144   ( 0.9%) 
+LDR leaf ambient      2871/65536       80388/1835008  ( 4.4%) 
+HDR leaf ambient       616/65536       17248/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/7704     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1720
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+706 faces
+913263 square feet [131509968.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+706 patches before subdivision
+10664 patches after subdivision
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 90.000000 but _zero_percent_distance of 0.000000
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1735319, max 500
+transfer lists:  13.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1232, 1032, 814)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(134, 95, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(13, 8, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 92/8192         1104/98304    ( 1.1%) 
+brushsides             611/65536        4888/524288   ( 0.9%) 
+planes                 434/65536        8680/1310720  ( 0.7%) 
+vertexes              1182/65536       14184/786432   ( 1.8%) 
+nodes                  608/65536       19456/2097152  ( 0.9%) 
+texinfos                73/12288        5256/884736   ( 0.6%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  706/65536       39536/3670016  ( 1.1%) 
+hdr faces              706/65536       39536/3670016  ( 1.1%) 
+origfaces              168/65536        9408/3670016  ( 0.3%) 
+leaves                 616/65536       19712/2097152  ( 0.9%) 
+leaffaces              903/65536        1806/131072   ( 1.4%) 
+leafbrushes            433/65536         866/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             3800/512000      15200/2048000  ( 0.7%) 
+edges                 2177/256000       8708/1024000  ( 0.9%) 
+LDR worldlights         10/8192          880/720896   ( 0.1%) 
+HDR worldlights         10/8192          880/720896   ( 0.1%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             45/32768         450/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           648/65536        1296/131072   ( 1.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 3/512          1056/180224   ( 0.6%) 
+LDR lightdata         [variable]     1040188/0        ( 0.0%) 
+HDR lightdata         [variable]     1040188/0        ( 0.0%) 
+visdata               [variable]       24621/16777216 ( 0.1%) 
+entdata               [variable]       10346/393216   ( 2.6%) 
+LDR ambient table      616/65536        2464/262144   ( 0.9%) 
+HDR ambient table      616/65536        2464/262144   ( 0.9%) 
+LDR leaf ambient      2871/65536       80388/1835008  ( 4.4%) 
+HDR leaf ambient      2871/65536       80388/1835008  ( 4.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/7704     ( 0.0%) 
+pakfile               [variable]      174470/0        ( 0.0%) 
+physics               [variable]       34351/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1720
+Writing d:\!negroshoara\old stuff\maps\tunel_v12.bsp
+3 seconds elapsed
