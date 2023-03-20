@@ -1,5 +1,4 @@
 ![BLACKTM](https://user-images.githubusercontent.com/30258996/226437512-79cddfbd-049d-40d4-b4f0-0337b0194d7b.png)
-![Logo Black][/Images/BLACKTM.png]
 
 ## Описание
 
