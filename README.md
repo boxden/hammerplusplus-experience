@@ -1,6 +1,8 @@
+![BLACKTM](https://user-images.githubusercontent.com/30258996/226437512-79cddfbd-049d-40d4-b4f0-0337b0194d7b.png)
+
 ## Описание
 
-Создание карты с помощью усовершественного редактора [Hammer++][tool hammer++]
+Воссоздание карт игры BLACK с помощью усовершественного редактора [Hammer++][tool hammer++]
 
 ![GitHub repo size][info repo size]
 ![GitHub last commit][info last commit]
