@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8864"
-	"mapversion" "9"
+	"mapversion" "10"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,7 +14,7 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "8"
+	"nGridSpacing" "64"
 }
 palette_plus
 {
@@ -72,7 +72,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "9"
+	"mapversion" "10"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -954,9 +954,9 @@ world
 				"v" "208 200 -0"
 				"v" "208 216 -0"
 			}
-			"material" "BLACK/LEVEL_00/169A2E39B143F268-343BAE8C5B43ADF2-00005D93"
-			"uaxis" "[-0 -1 0 54.4761] 1"
-			"vaxis" "[0 -0 -1 0] 1"
+			"material" "DEV/DEV_MEASUREGENERIC01"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1008,9 +1008,9 @@ world
 				"v" "208 200 128"
 				"v" "288 200 128"
 			}
-			"material" "BLACK/LEVEL_00/169A2E39B143F268-343BAE8C5B43ADF2-00005D93"
-			"uaxis" "[1 0 0 30.4762] 1"
-			"vaxis" "[0 0 -1 0] 1"
+			"material" "DEV/DEV_MEASUREGENERIC01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1108,9 +1108,9 @@ world
 				"v" "208 200 128"
 				"v" "208 200 96"
 			}
-			"material" "BLACK/LEVEL_00/169A2E39B143F268-343BAE8C5B43ADF2-00005D93"
-			"uaxis" "[1 0 0 30.4762] 1.05"
-			"vaxis" "[0 0 -1 0] 1.05"
+			"material" "DEV/DEV_MEASUREGENERIC01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1226,9 +1226,9 @@ world
 				"v" "136 200 40"
 				"v" "208 200 40"
 			}
-			"material" "BLACK/LEVEL_00/169A2E39B143F268-343BAE8C5B43ADF2-00005D93"
-			"uaxis" "[1 0 0 30.4762] 1"
-			"vaxis" "[0 0 -1 0] 1"
+			"material" "DEV/DEV_MEASUREGENERIC01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1344,9 +1344,9 @@ world
 				"v" "88 200 128"
 				"v" "88 200 96"
 			}
-			"material" "BLACK/LEVEL_00/169A2E39B143F268-343BAE8C5B43ADF2-00005D93"
-			"uaxis" "[1 0 0 30.4762] 1"
-			"vaxis" "[0 0 -1 0] 1"
+			"material" "DEV/DEV_MEASUREGENERIC01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1462,9 +1462,9 @@ world
 				"v" "16 200 40"
 				"v" "88 200 40"
 			}
-			"material" "BLACK/LEVEL_00/169A2E39B143F268-343BAE8C5B43ADF2-00005D93"
-			"uaxis" "[1 0 0 30.4762] 1"
-			"vaxis" "[0 0 -1 0] 1"
+			"material" "DEV/DEV_MEASUREGENERIC01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1526,9 +1526,9 @@ world
 				"v" "88 200 128"
 				"v" "88 200 0"
 			}
-			"material" "BLACK/LEVEL_00/169A2E39B143F268-343BAE8C5B43ADF2-00005D93"
-			"uaxis" "[-0 -1 0 62.4761] 1"
-			"vaxis" "[0 0 -1 0] 1"
+			"material" "DEV/DEV_MEASUREGENERIC01"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1580,9 +1580,9 @@ world
 				"v" "136 200 128"
 				"v" "136 200 0"
 			}
-			"material" "BLACK/LEVEL_00/169A2E39B143F268-343BAE8C5B43ADF2-00005D93"
-			"uaxis" "[1 0 0 30.4762] 1"
-			"vaxis" "[0 0 -1 0] 1"
+			"material" "DEV/DEV_MEASUREGENERIC01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1662,9 +1662,9 @@ world
 				"v" "16 216 128"
 				"v" "16 216 0"
 			}
-			"material" "BLACK/LEVEL_00/169A2E39B143F268-343BAE8C5B43ADF2-00005D93"
-			"uaxis" "[-0 1 0 -25.5238] 1"
-			"vaxis" "[-0 0 -1 0] 1"
+			"material" "DEV/DEV_MEASUREGENERIC01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1698,9 +1698,9 @@ world
 				"v" "16 200 128"
 				"v" "16 200 0"
 			}
-			"material" "BLACK/LEVEL_00/169A2E39B143F268-343BAE8C5B43ADF2-00005D93"
-			"uaxis" "[1 0 0 30.4762] 1"
-			"vaxis" "[0 0 -1 0] 1"
+			"material" "DEV/DEV_MEASUREGENERIC01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -1986,8 +1986,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-27.4094 -185.06 83.5508]"
-		"look" "[-88.9886 -168.33 78.6409]"
+		"position" "[-98.7934 -157.748 79.8034]"
+		"look" "[-54.0328 -112.039 78.0165]"
 	}
 }
 cordons
