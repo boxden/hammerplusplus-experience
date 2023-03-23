@@ -1,8 +1,6 @@
 ![BLACKTM](https://user-images.githubusercontent.com/30258996/226437512-79cddfbd-049d-40d4-b4f0-0337b0194d7b.png#gh-light-mode-only)
 ![black-logo-480x100](https://user-images.githubusercontent.com/30258996/226460603-b07161a6-8d90-45db-a623-c42a7ceb1c3b.png#gh-dark-mode-only)
 
-~~Воссоздание карт игры BLACK с помощью усовершественного редактора [Hammer++][tool hammer++]~~
-
 Воссоздание карт игры BLACK на Source 2 SDK для CS2
 
 ![GitHub repo size][info repo size]
@@ -15,6 +13,11 @@
 
 - **16 Марта 2023**<br>
 Александр предложил воссоздать игру BLACK от разработчиков Criterion Games
+
+- **22 Марта 2023**<br>
+Valve анонсиоровала Counter-Strike 2 на движке Source 2 выход которого планируется летом этого года.<br>
+Так же объявила о ограниченом бета тестировании, которая будет избирать случайных игроков.<br>
+Ожидаем приглашение.
 
 ## Полезные ссылки
 
