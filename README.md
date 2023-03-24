@@ -1,7 +1,7 @@
 ![BLACKTM][BLACK LIGHT MODE]
 ![black-logo-480x100][BLACK DARK MODE]
 
-Воссоздание карт игры BLACK на Source 2 SDK для CS2
+Проект BLACK на Source 2 для CS2
 
 ![GitHub repo size][info repo size]
 ![GitHub last commit][info last commit]
@@ -15,7 +15,7 @@
 Александр предложил воссоздать игру BLACK от разработчиков Criterion Games
 
 - **22 Марта 2023**<br>
-Valve анонсиоровала Counter-Strike 2 на движке Source 2 выход которого планируется летом этого года.<br>
+Valve анонсиоровали Counter-Strike 2 на движке Source 2 выход которого планируется летом этого года.<br>
 Так же объявила о ограниченом бета тестировании, которая будет избирать случайных игроков.<br>
 Ожидаем приглашение.
 
