@@ -39,193 +39,30 @@ You can add text within a collapsed section.
 | Контент  | Контент  |
 | Контент  | Контент  |
 | Контент  | Контент  |
-| Контент  | Контент  |
-| Контент  | Контент  |
-| Контент  | Контент  |
-| Контент  | Контент  |
-| Контент  | Контент  |
-| Контент  | Контент  |
 
 | Command | Description |
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
-| git diff | Show file differences that haven't been staged |
-| git diff | Show file differences that haven't been staged |
-| git diff | Show file differences that haven't been staged ||
-| git diff | Show file differences that haven't been staged |
-| git diff | Show file differences that haven't been staged |
-| git diff | Show file differences that haven't been staged |
-| git diff | Show file differences that haven't been staged ||
-| git diff | Show file differences that haven't been staged |
-| git diff | Show file differences that haven't been staged |
-| git diff | Show file differences that haven't been staged |
-| git diff | Show file differences that haven't been staged |
 
 | Command | Description |
 | --- | --- |
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
-| git diff     | git diff       | git diff      |
+| Left-aligned | Center-aligned | Right-aligned | Sperma Armena Carapetuana|
+| :---         |     :---:      |          ---: | ---: |
+| git status   | git status     | git status    | Huesos gandon |
+| git diff     | git diff       | git diff      | Gbro |
+| git diff     | git diff       | git diff      |      |
+| git diff     | git diff       | git diff      | Gbro |
 
 | Name     | Character |
 | ---      | ---       |
 | Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Backtick | `         |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
-| Pipe     | \|        |
 | Pipe     | \|        |
 
 ```ruby
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
-   puts "Hello World"
    puts "Hello World"
 ```
 
