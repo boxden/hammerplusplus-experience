@@ -28,11 +28,7 @@
 
 <details>
 
-<summary>Раскрываюшийся список</summary>
-
-## Ахуенно
-
-You can add text within a collapsed section. 
+<summary>Виды таблиц</summary>
 
 | Заголовок 1 | Заголовок 2 |
 | ------ | ----- |
