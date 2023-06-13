@@ -8,17 +8,17 @@
 
 ## Хронология
 
-- **12 Марта 2023**<br>
-Александр предложил создать совместный проект по созданию карты для Garry's Mod с помощью усовершественного редактора карт Hammer++.
+- **12 Марта 2023**  
+Александр предложил создать совместный проект по созданию карты для Garry's Mod с помощью усовершенствованного редактора карт Hammer++.
 
-- **16 Марта 2023**<br>
+- **16 Марта 2023**  
 Александр предложил воссоздать игру BLACK от разработчиков Criterion Games.
 
-- **22 Марта 2023**<br>
-Valve анонсиоровали Counter-Strike 2 на движке Source 2, выход которого планируется летом 2023 года.<br>
-Так же объявлено об ограниченом бета тестировании.
+- **22 Марта 2023**  
+Valve анонсировали Counter-Strike 2 на движке Source 2, выход которого планируется летом 2023 года.  
+Так же объявлено об ограниченном бета тестировании.
 
-- **25 Мая 2023**<br>
+- **25 Мая 2023**  
 Проект заморожен.
 
 ## Полезные ссылки
@@ -28,11 +28,11 @@ Valve анонсиоровали Counter-Strike 2 на движке Source 2, в
 
 _Создано благодаря Армену Карапетяну и его друзьям которые пиздяться каждое лето у меня под окном_
 
-<!-- Информация о репозитории (Shields.io) -->
+<!--Info (Shields.io)-->
 [info repo size]: https://img.shields.io/github/repo-size/boxden/hammerplusplus-experience
 [info last commit]: https://img.shields.io/github/last-commit/boxden/hammerplusplus-experience
 
-<!-- Ссылки -->
+<!--Links-->
 [snd source]: https://gmod-games.thouvest.ovh/documents/sound_supported_formats.htm
 [snd gmod]: https://originahl-scripts.com/en/help/gmod-sounds-supported-formats
 [tool hammer++]: https://github.com/ficool2/HammerPlusPlus-Website/releases
