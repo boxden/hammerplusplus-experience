@@ -31,7 +31,7 @@
 
 <img alt="Диалоговое окно с воспросом о привязке конфигурации" src="https://github.com/boxden/black-source2/assets/30258996/55ae800e-7679-4ed5-b3e2-08463d339bdd">
 
-После выскачит окно с воспросом, хотим ли мы привязать конфигурации из Garry's Mod'a?  
+После выскачет окно с вопросом, хотим ли мы привязать конфигурации из Garry's Mod'a?  
 Нажимаем да
 
 <img alt="Последнее диалоговое окно с завершением установки HammerPlusPlus" src="https://github.com/boxden/black-source2/assets/30258996/ff337981-586e-42b4-aaed-da2047061ee7">
