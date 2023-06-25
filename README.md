@@ -1,5 +1,5 @@
-![BLACKTM][BLACK LIGHT MODE]
-![black-logo-480x100][BLACK DARK MODE]
+![BLACK LIGHT MODE](https://user-images.githubusercontent.com/30258996/226437512-79cddfbd-049d-40d4-b4f0-0337b0194d7b.png#gh-light-mode-only)
+![BLACK DARK MODE](https://user-images.githubusercontent.com/30258996/226460603-b07161a6-8d90-45db-a623-c42a7ceb1c3b.png#gh-dark-mode-only)
 
 Проект BLACK на Source 2 для CS2
 
@@ -36,5 +36,3 @@ _Создано благодаря Армену Карапетяну и его �
 [snd source]: https://gmod-games.thouvest.ovh/documents/sound_supported_formats.htm
 [snd gmod]: https://originahl-scripts.com/en/help/gmod-sounds-supported-formats
 [tool hammer++]: https://github.com/ficool2/HammerPlusPlus-Website/releases
-[BLACK LIGHT MODE]: https://user-images.githubusercontent.com/30258996/226437512-79cddfbd-049d-40d4-b4f0-0337b0194d7b.png#gh-light-mode-only
-[BLACK DARK MODE]: https://user-images.githubusercontent.com/30258996/226460603-b07161a6-8d90-45db-a623-c42a7ceb1c3b.png#gh-dark-mode-only
