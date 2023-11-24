@@ -1,4 +1,5 @@
 ![Source](https://github.com/boxden/source-experience/assets/30258996/6b26e732-108c-49fa-95b7-da2d37699ae4)
+![1200px-Source_engine_logo](https://github.com/boxden/source-experience/assets/30258996/6f991fc7-658f-4d1f-8335-44e4bc6654fb)
 
 ![GitHub repo size][info repo size]
 ![GitHub last commit][info last commit]
