@@ -45,7 +45,7 @@ flowchart TD;
 6. Армения погасила долг перед Палестиной
 7. Палестина узнала кто на самом деле постарался над погашением долга и в качестве награды даровала фамилию "Карапетян" Армену
 
-https://github.com/boxden/black-source2/blob/49e271dd9c495b5479d7aaedf34010e72f7f9211/Programs/Crowbar%200.74/README.md?plain=1#L3-L8
+https://github.com/boxden/source-experience/blob/49e271dd9c495b5479d7aaedf34010e72f7f9211/Programs/Crowbar%200.74/README.md?plain=1#L3-L8
 
 <!--
 <picture>

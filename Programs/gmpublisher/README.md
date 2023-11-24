@@ -22,4 +22,4 @@
 <!--Links-->
 [gmpublisher]: https://github.com/WilliamVenner/gmpublisher/releases
 [photo gmpublisher]: https://user-images.githubusercontent.com/30258996/224716636-69bddc0c-f270-4437-86eb-f54b214235ec.png
-[gmpublisher-here]: https://github.com/boxden/black-source2/blob/326aa3ed7fa6c7c42771f435ea307703838da46b/Programs/gmpublisher/gmpublisher_2.9.2_x64.msi
+[gmpublisher-here]: https://github.com/boxden/source-experience/blob/326aa3ed7fa6c7c42771f435ea307703838da46b/Programs/gmpublisher/gmpublisher_2.9.2_x64.msi

@@ -1,5 +1,4 @@
-![BLACK LIGHT MODE](https://github.com/boxden/black-source2/assets/30258996/6b26e732-108c-49fa-95b7-da2d37699ae4.png#gh-light-mode-only)
-![BLACK DARK MODE](https://github.com/boxden/black-source2/assets/30258996/6b26e732-108c-49fa-95b7-da2d37699ae4.png#gh-dark-mode-only)
+![Source](https://github.com/boxden/source-experience/assets/30258996/6b26e732-108c-49fa-95b7-da2d37699ae4)
 
 ![GitHub repo size][info repo size]
 ![GitHub last commit][info last commit]
