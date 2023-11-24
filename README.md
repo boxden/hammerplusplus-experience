@@ -33,4 +33,3 @@ _Создано благодаря Армену Карапетяну и его �
 <!--Links-->
 [snd source]: https://gmod-games.thouvest.ovh/documents/sound_supported_formats.htm
 [snd gmod]: https://originahl-scripts.com/en/help/gmod-sounds-supported-formats
-[tool hammer++]: https://github.com/ficool2/HammerPlusPlus-Website/releases
