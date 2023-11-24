@@ -11,8 +11,6 @@
 
 <img alt="Внешний вид программы. Версия 0.72" src="https://user-images.githubusercontent.com/30258996/224700892-4b258333-444f-46e3-b0aa-f3390ccc4800.png">
 
-REGUSATIONS
-
 <!--Links-->
 [tool gmpublisher]: https://github.com/WilliamVenner/gmpublisher/releases
 [SteamWorkshop]: https://steamcommunity.com/workshop/
