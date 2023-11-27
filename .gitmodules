@@ -1,0 +1,33 @@
+[submodule "Source/The-Lobby"]
+	path = Source/The-Lobby
+	url = https://github.com/boxden/The-Lobby.git
+[submodule "Source/gmod-plus"]
+	path = Source/gmod-plus
+	url = https://github.com/boxden/gmod-plus.git
+[submodule "Source/wise_mystical_tree"]
+	path = Source/wise_mystical_tree
+	url = https://github.com/boxden/wise_mystical_tree.git
+[submodule "Source/sebastian_backgrounds"]
+	path = Source/sebastian_backgrounds
+	url = https://github.com/boxden/sebastian_backgrounds.git
+[submodule "Source/justice_backgrounds"]
+	path = Source/justice_backgrounds
+	url = https://github.com/boxden/justice_backgrounds.git
+[submodule "Source/half_life_2_styled_apartment"]
+	path = Source/half_life_2_styled_apartment
+	url = https://github.com/boxden/half_life_2_styled_apartment.git
+[submodule "Source/farmhouse_sunset"]
+	path = Source/farmhouse_sunset
+	url = https://github.com/boxden/farmhouse_sunset.git
+[submodule "Source/daft_punk_backgrounds"]
+	path = Source/daft_punk_backgrounds
+	url = https://github.com/boxden/daft_punk_backgrounds.git
+[submodule "Source/gm_construction"]
+	path = Source/gm_construction
+	url = https://github.com/boxden/gm_construction.git
+[submodule "Source-2/we-are-your-friends"]
+	path = Source-2/we-are-your-friends
+	url = https://github.com/boxden/we-are-your-friends.git
+[submodule "Source-2/sboxgame-cvarlist"]
+	path = Source-2/sboxgame-cvarlist
+	url = https://github.com/boxden/sboxgame-cvarlist.git
