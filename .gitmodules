@@ -25,9 +25,9 @@
 [submodule "Source/gm_construction"]
 	path = Source/gm_construction
 	url = https://github.com/boxden/gm_construction.git
-[submodule "Source-2/we-are-your-friends"]
-	path = Source-2/we-are-your-friends
-	url = https://github.com/boxden/we-are-your-friends.git
 [submodule "Source-2/sboxgame-cvarlist"]
 	path = Source-2/sboxgame-cvarlist
 	url = https://github.com/boxden/sboxgame-cvarlist.git
+[submodule "Source-2/nite"]
+	path = Source-2/nite
+	url = https://github.com/boxden/nite.git
