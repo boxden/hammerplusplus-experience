@@ -3,6 +3,11 @@
 ![GitHub repo size][info repo size]
 ![GitHub last commit][info last commit]
 
+## Заметка для разработчика
+
+Команда для обновление всех submodule до последних версий  
+`-git submodule update --remote`
+
 ## Хронология
 
 - **12 Марта 2023**  
