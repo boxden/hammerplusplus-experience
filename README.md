@@ -6,7 +6,7 @@
 ## Заметка для разработчика
 
 Команда для обновление всех submodule до последних версий  
-`-git submodule update --remote`
+`git submodule update --remote`
 
 ## Хронология
 
