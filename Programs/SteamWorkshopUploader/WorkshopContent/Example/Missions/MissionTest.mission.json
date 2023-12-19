@@ -1,0 +1,46 @@
+{
+	"name" : "Example Custom Mission",
+	"description" : "This is an example you can use as a basis for your own custom missions.\n\nFly right into the danger zone!",
+	"site" :
+	{
+		"worldName" : "ExampleMission",
+		"playerStartPosition" : [10, 500, -10],
+		"maxElevation" : 200,
+		"spawns" :
+		[
+			{
+				"position" : [10, 800, 25],
+				"rotation" : [0,0,0],
+				"spawnType" : 1,
+				"resourceName" : "Aeroplane_schwalbe",
+				"team" : 2,
+				"isMissionObjective" : true,
+				"squadronSize" : 4
+			},
+			{
+				"position" : [10, 800, 6],
+				"rotation" : [0,0,0],
+				"spawnType" : 1,
+				"resourceName" : "Aeroplane_drakon",
+				"team" : 1,
+				"isMissionObjective" : false,
+				"squadronSize" : 2
+			},
+			{
+				"position" : [10, 0, 4],
+				"rotation" : [0,0,0],
+				"spawnType" : 0,
+				"resourceName" : "Buildings/Tower_sam",
+				"team" : 2,
+				"isMissionObjective" : true,
+			},
+			{
+				"position" : [10, 0, 16],
+				"rotation" : [0,0,0],
+				"spawnType" : 0,
+				"resourceName" : "Buildings/Tower_lrsam",
+				"team" : 1,
+			}
+		]
+	}
+}
