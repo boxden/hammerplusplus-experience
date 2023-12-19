@@ -1,0 +1,9 @@
+2.2
+
+Changed
+- You can now select stuff in the answer field (if you would like to copy the value for example)
+
+2.1
+
+Fixed
+- Not updating type labels when number field is empty
