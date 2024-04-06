@@ -31,3 +31,6 @@
 [submodule "Source-2/nite"]
 	path = Source-2/nite
 	url = https://github.com/boxden/nite.git
+[submodule "Source/rp_downtown_bangclaw_v2"]
+	path = Source/rp_downtown_bangclaw_v2
+	url = https://github.com/boxden/rp_downtown_bangclaw_v2.git
