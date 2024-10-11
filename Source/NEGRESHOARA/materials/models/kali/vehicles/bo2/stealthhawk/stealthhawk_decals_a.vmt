@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+
+	"$basetexture" "models\Kali\vehicles\BO2\StealthHawk\StealthHawk_Decals_A_C"
+	"$halflambert" "1"				
+	"$nocull" 1
+
+	"$translucent" 1		
+}
+
+
