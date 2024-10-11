@@ -1,0 +1,34 @@
+"VertexLitGeneric"
+{
+
+//	DEV NOTE:  THIS IS THE BM VERSION OF THE PLUG.  HAS A DIFFERENT UV THAN THE HL2 counterpart
+
+	"$basetexture"					"models/props_lab/tpplug_sheet"
+	"$bumpmap"						"models/props_lab/tpplug_sheet_n"
+	"$model"						"1"
+	"$halflambert"					"1"
+
+//	Selfillum Parameters		
+	
+	"$selfillum"					"1"
+	"$selfillumtint"				"[0.4 .2 .2]"
+
+//	EnvMap Parameters	
+
+	"$envmap"						"env_cubemap"
+	"$normalmapalphaenvmapmask" 	"1"
+	"$envmaptint"					"[0.25 0.25 0.25]"
+
+//	Phong Parameters		
+	
+	"$phong"						 "1"
+	"$phongexponent"				"10"
+	"$phongboost"					"1.5"
+	"$phongfresnelranges"			"[0.2 0.5 2.5]"
+
+//	Rimlighting Parameters
+
+	"$rimlight"						"1"
+//	"$rimlightexponent"				"1"
+	"$rimlightboost"				"0.5"
+}

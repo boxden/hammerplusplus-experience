@@ -1,0 +1,38 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models/props_lab/lockers_sheet"
+	"$bumpmap"					"models\props_lab/lockers_sheet_nm"
+	
+	"$model"					"1"
+	"$surfaceprop"				"metal"
+
+//	EnvMap Parameters
+	
+//	"$envmap"					"env_cubemap"
+   	"$envmaptint"				"[.2 .2 .2]"
+	"$envmapsaturation"			"0.15"
+	
+//	Phong Lighting Parameters
+	
+	"$phong"					"1"
+	"$phongexponent"			"80"
+	"$phongboost"				"5"
+	"$phongfresnelranges"		"[0.2 .5 1.6]"
+	"$phongalbedotint"			"1"
+	"$phongwarptexture"			"models\props_am\am_ams_phongwarp"
+
+//	Rim Lighting Parameters
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"25"
+	"$rimlightboost"			"0.25"
+
+// 	OBSOLETED PHONG ENTRIES?
+//	"$phong"					"1"
+//	"$phongexponent"			"10"
+//	"$phongboost"				"1"
+//	"$phongfresnelranges"		"[0.5 2 1]"		
+
+//PLZ NOTE: This file was edited in notepad ++
+
+}

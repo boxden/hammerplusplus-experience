@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_vehicles/jeep011"
+	"$bumpmap" "models/props_vehicles/jeep011_nm"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.2 .2 .2]"
+	"$multipass" 0
+
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost" "50"
+	"$phongfresnelranges"	"[0.4 1 4]"
+	"$phongalbedotint" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"
+	"$rimlightexponent" "45"
+	"$rimlightboost" "40"
+   "$surfaceprop" "metal"
+    "$model" 1
+
+}

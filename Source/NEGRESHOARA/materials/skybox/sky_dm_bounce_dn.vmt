@@ -1,0 +1,8 @@
+"sky"
+{
+	$hdrcompressedTexture "skybox\sky_dm_bounce_HDR_up"
+	"$nofog" "1"
+	"$ignorez" "1"
+	"$basetexture" "skybox\sky_dm_bounce_up"
+	"%keywords" "bms"
+}

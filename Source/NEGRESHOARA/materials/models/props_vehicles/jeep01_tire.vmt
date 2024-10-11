@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+$baseTexture "models\props_vehicles/pickup_trucks"
+"$bumpmap" "models/props_vehicles/jcvtires_nm"
+"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+   	"$envmaptint" "[.05 .05 .05]"
+	"$multipass" 0
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[0.1 2 4]"
+//	"$phongalbedotint" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"
+	"$rimlightexponent" "250"
+	"$rimlightboost" "0.3"
+    "$model" 1
+
+}

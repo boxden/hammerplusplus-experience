@@ -1,0 +1,32 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props_pipes/pipesystem01a_skin5"
+	"$bumpmap" "models/props_pipes/pipesystem01a_norm"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[ .2 .2 .2 ]"
+	"$envmapcontrast" "0.5"
+	"$envmapsaturation" "0.6"
+
+	"$surfaceprop" "computer"
+	"$model" "1"
+
+        "$detail" "detail\bm_metal_detail_01"
+	"$detailscale" "6"
+	"$detailblendfactor" 0.8
+	"$detailblendmode" 0
+
+// Phong Schtuff
+"$phong" "1"
+"$phongexponent" "8"
+"$phongboost" "10"
+"$phongfresnelranges"	"[0.2 0.8 1.6]"
+"$phongalbedotint" "1"
+
+
+// Rim lighting parameters
+"$rimlight" "1"
+"$rimlightexponent" "25"
+"$rimlightboost" "0.5"
+}
