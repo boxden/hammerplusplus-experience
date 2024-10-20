@@ -12,13 +12,14 @@
 ## Скачать
 
 Скачать из [официального репозитория][gmpublisher]  
-Скачать [v2.10.4][gmpublisher-here] <sup>_Последняя_</sup>
+Скачать отсюда [v2.10.4][gmpublisher-here] <sup>_Последняя версия_</sup>
 
 ## Изображения
 
-![gmpublisher v2.10.0][gmpublisher-preview]
+![gmpublisher v2.10.4][gmpublisher-preview]
+
 
 <!--Links-->
 [gmpublisher]: https://github.com/WilliamVenner/gmpublisher/releases
-[gmpublisher-preview]: https://user-images.githubusercontent.com/30258996/224716636-69bddc0c-f270-4437-86eb-f54b214235ec.png
+[gmpublisher-preview]: https://github.com/user-attachments/assets/6741fb34-d2e6-46de-8769-1e7bf54f8eab
 [gmpublisher-here]: https://github.com/boxden/source-experience/raw/main/Programs/gmpublisher%202.10.4/gmpublisher_2.10.4_x64_en-US.msi
